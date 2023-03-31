@@ -1,0 +1,16 @@
+{
+    "name": "carlosfgti/design-patterns",
+    "description": "Curso Design Patterns",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "src/Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Vitor",
+            "email": "gustavo.vitor@redbelt.com.br"
+        }
+    ],
+    "require": {}
+}
